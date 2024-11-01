@@ -13,6 +13,12 @@ Each sample is labeled with its species, making it ideal for testing classificat
 # Visualization of Iris_datasets
 ![image](https://github.com/user-attachments/assets/a5df62b7-1278-4922-a8fe-143531c90117)
 
+
+# Models learning curves
+
+![image](https://github.com/user-attachments/assets/ef153ea5-72f9-42e1-a97b-b3100ffafcdc)
+
+
 # Get Feature importances from XGBoost
 
 ![image](https://github.com/user-attachments/assets/3ab01c3d-03c4-4b36-b885-febd035e99f7)
