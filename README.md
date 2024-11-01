@@ -17,5 +17,3 @@ Each sample is labeled with its species, making it ideal for testing classificat
 
 ![image](https://github.com/user-attachments/assets/3ab01c3d-03c4-4b36-b885-febd035e99f7)
 
-![image](https://github.com/user-attachments/assets/73e7558e-9fb0-4635-bac9-578fe798bd90)
-
