@@ -10,6 +10,7 @@ The Iris dataset isn't agricultural; it's a classic dataset in machine learning 
 
 Each sample is labeled with its species, making it ideal for testing classification models due to its simplicity and balanced class distribution. Although not directly related to agriculture, it serves as a foundational dataset for exploring data analysis, feature relationships, and predictive modeling, which can also be applied to agricultural datasets in similar contexts.
 
+# Visualization of Iris_datasets
 ![image](https://github.com/user-attachments/assets/a5df62b7-1278-4922-a8fe-143531c90117)
 
 # Get Feature importances from XGBoost
