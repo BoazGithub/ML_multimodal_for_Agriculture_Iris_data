@@ -19,6 +19,16 @@ Each sample is labeled with its species, making it ideal for testing classificat
 ![image](https://github.com/user-attachments/assets/ef153ea5-72f9-42e1-a97b-b3100ffafcdc)
 
 
+![image](https://github.com/user-attachments/assets/58bb0a16-e460-4f87-a40d-5fab46272d5b)
+
+
+![image](https://github.com/user-attachments/assets/95f49683-d034-41e9-b6fc-6fa1d4ff88e1)
+
+![Uploading image.png…]()
+
+
+
+
 # Get Feature importances from XGBoost
 
 ![image](https://github.com/user-attachments/assets/3ab01c3d-03c4-4b36-b885-febd035e99f7)
