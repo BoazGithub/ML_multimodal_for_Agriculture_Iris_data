@@ -5,5 +5,8 @@ This project compares various machine learning models (Logistic Regression, Deci
 
 ![image](https://github.com/user-attachments/assets/a5df62b7-1278-4922-a8fe-143531c90117)
 
+
+![image](https://github.com/user-attachments/assets/3ab01c3d-03c4-4b36-b885-febd035e99f7)
+
 ![image](https://github.com/user-attachments/assets/73e7558e-9fb0-4635-bac9-578fe798bd90)
 
